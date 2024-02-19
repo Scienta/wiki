@@ -21,12 +21,9 @@ Vi følgende forsikringer:
 Forsikringene leveres av Gjensidige, og ved å logge inn på deres sider og legge til forsikringsnummeret kan man få opp vilkår. Dokumentene ligger også på [google drive](https://drive.google.com/drive/folders/1J1fgsFzpooXyCxIBvYTzywJm226aLspu)
 
 ## Mobiltelefoni og internett 
-Internett og bobiltelefoni kan dekkes av Scienta. Det er to alternative modeller. 
+Internett og bobiltelefoni kan dekkes av Scienta.  Hvis du vil ha mobil dekket må du være med i vår bedriftsløsning hos Talkmore som bruker Telenors nett. Den ansatte får et sjablångmessig inntektstillegg på inntil 366 kroner per måned/4392 kroner per år på toppen av lønnsinntekten som de må betale skatt av (2024) for betalt mobiltelefoni. 
 
-- Inngå i bedriftsløsning. Vi bruker Talkmore og disse bruker telenors nett. Den ansatte får et sjablångmessig inntektstillegg på inntil 366 kroner per måned/4392 kroner per år på toppen av lønnsinntekten som de må betale skatt av (2024) for betalt mobiltelefoni. 
-- Levere bilag fra egenvalgt leverandør. Her vil inntektstillegget være faktisk bruk, maksimalt 4392,-  
-
-I tillegg kan det leveres bilag på internettabonnement uten videre skattekonsekvens.  Mer informasjon om skattereglene finner du på [skatteetatens sider](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/utstyr-betalt-av-arbeidsgiver/skatt-pa-telefon/)
+I tillegg kan det leveres bilag på internettabonnement. Maks inntekstillegg er uansett 4392,- for begge tjenester. Mer informasjon om skattereglene finner du på [skatteetatens sider](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/utstyr-betalt-av-arbeidsgiver/skatt-pa-telefon/)
 
 Nina er forørvig administrator på bedriftsløsningen, så portering osv kan tas med henne. 
 
