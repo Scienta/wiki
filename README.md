@@ -22,6 +22,9 @@ Vi følgende forsikringer:
 
 Forsikringene leveres av Gjensidige, og ved å logge inn på deres sider og legge til forsikringsnummeret kan man få opp vilkår. Dokumentene ligger også på [google drive](https://drive.google.com/drive/folders/1J1fgsFzpooXyCxIBvYTzywJm226aLspu)
 
+___
+
+
 ## Mobiltelefoni og internett 
 Internett og bobiltelefoni kan dekkes av Scienta.  Hvis du vil ha mobil dekket må du være med i vår bedriftsløsning hos Talkmore som bruker Telenors nett. Den ansatte får et sjablångmessig inntektstillegg på inntil 366 kroner per måned/4392 kroner per år på toppen av lønnsinntekten som de må betale skatt av (2024) for betalt mobiltelefoni. 
 
@@ -29,9 +32,15 @@ I tillegg kan det leveres bilag på internettabonnement. Maks inntekstillegg er 
 
 Nina er forørvig administrator på bedriftsløsningen, så portering osv kan tas med henne. 
 
+___
+
 ## Utstyr til jobb 
 Har du behov for utstyr til jobben, ta kontakt med Stian, Vibeke eller Tobias. Vi har årlige rammer på rundt 15 000,- Det bemerkes 
 
-## Lønnskalkulator 
-Det ligger en liten lønnskalkulator [her](https://htmlpreview.github.io/?https://github.com/Scienta/wiki/blob/master/kalkulator.html). 
+___
 
+
+## Lønnskalkulator 
+Det ligger en enkel lønnskalkulator [her](https://htmlpreview.github.io/?https://github.com/Scienta/wiki/blob/master/kalkulator.html). Denne kan brukes til å beregne måndlige utbetalinger basert på timer du har arbeidet og mållønn.
+
+___
