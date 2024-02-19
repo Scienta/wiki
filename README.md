@@ -34,5 +34,5 @@ Nina er forørvig administrator på bedriftsløsningen, så portering osv kan ta
 Har du behov for utstyr til jobben, ta kontakt med Stian, Vibeke eller Tobias. Vi har årlige rammer på rundt 15 000,- Det bemerkes 
 
 ## Lønnskalkulator 
-Det ligger en liten lønnskalkulator her. 
+Det ligger en liten lønnskalkulator [her](https://htmlpreview.github.io/?https://github.com/Scienta/wiki/blob/master/kalkulator.html). 
 
