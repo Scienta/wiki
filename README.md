@@ -12,6 +12,8 @@ De fleste konsulentene klarer seg uten M$-office lisens. Vi bruker primært goog
 ## Personalhåndbok 
 Personalhåndboka ligger på [google-drive](https://drive.google.com/drive/folders/107B9e-YkLDLKkxkQkD5L5MXT77U2xNik)
 
+___
+
 ## Forsikringer 
 Vi følgende forsikringer: 
 - Reiseforsikting
