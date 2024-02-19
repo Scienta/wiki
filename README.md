@@ -34,6 +34,14 @@ Nina er forørvig administrator på bedriftsløsningen, så portering osv kan ta
 
 ___
 
+## PC til jobb 
+Du kan selv velge PC-en som passer deg. Rammene er ikke faste, men de pleier ikke å koste mer enn 40 000,- Vi ønsker å ha topp utstyr, men helt øverste konfig pleier å koste uforholdsmessig mye, så nest øverste nivå pleier å være best "bang for the buck". Noen kunder stiller dessuten med utstyr, så det er ikke sikkert at du får brukt den til jobbe på. Det varierer fra kunde til kunde. Vi kjøper ny maskin når det er behov for det, men normal ikke oftere enn hvert 3.år, mend mindre behovet er endret vesentlig (f.eks spesiellt krevende utviklingsmiljøer - og da skal terskelen være lav).  Uansett er det bedre å vise noe moderasjon til vanlig, så kan vi heller topp-spekke dersom det er behov for det.  PC-en holdes utenfor for utsyr-til-jobb-rammen. 
+
+___
+## Mobil til jobb 
+Du kan selv velge mobiltelefonen som passer for deg. Noen telefoner koster veldig mye, og da håper vi også at de holder lenge. Som for PC bytter vi etter behov, men som regel ikke oftere enn hvert 3.år.  Mobilen inngår i utsyr-til-jobb-rammen. 
+___
+
 ## Utstyr til jobb 
 Har du behov for utstyr til jobben, ta kontakt med Stian, Vibeke eller Tobias. Vi har årlige rammer på rundt 15 000,- Det bemerkes 
 
