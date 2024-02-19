@@ -1,21 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
-<meta charset="UTF-8">
-<title>Page Title</title>
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="">
-<style>
-</style>
-<script src=""></script>
-<body>
+	<meta charset="UTF-8">
+	<title>Page Title</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-<img src="img_la.jpg" alt="LA" style="width:100%">
 
-<div class="">
- <h1>This is a Heading</h1>
- <p>This is a paragraph.</p>
- <p>This is another paragraph.</p>
-</div>
+	<style>
 
-</body>
+
+		input{
+			background-color: #fcfcfc;
+  			border: 0;
+  			border-bottom: 2px solid lightgrey;
+		}
+
+		body{
+			padding-top: 30px;
+		}
+
+		div{
+			padding-bottom: 15px;
+
+		}
+
+		label{
+			padding-right: 30px;
+		}
+
+
+	</style>
+
+	<script>
+
+		function fieldChanged(){
+
+			var maallonn = document.getElementById("maallonn").value
+			var antallTimer = document.getElementById("antallTimer").value
+			
+
+			console.log("maallonn" + maallonn)
+			console.log("antall timer" + antallTimer)
+
+			var bruttoMaanedslonn = (maallonn / 1700) * antallTimer
+
+			document.getElementById("bruttoMaanedslonn").innerHTML = Intl.NumberFormat('no-NO', { style: 'currency', currency: 'NOK' }).format( Math.trunc(bruttoMaanedslonn)) 
+			document.getElementById("feriepenger").innerHTML = Intl.NumberFormat('no-NO', { style: 'currency', currency: 'NOK' }).format(Math.trunc(bruttoMaanedslonn * 0.102))
+			document.getElementById("nettoMaanedslonn").innerHTML = Intl.NumberFormat('no-NO', { style: 'currency', currency: 'NOK' }).format(Math.trunc(bruttoMaanedslonn - (bruttoMaanedslonn * 0.102)))
+		}
+
+	</script>
+
+	<body>
+
+
+
+		<div class="container">
+			<div class="row">
+				<h1>Scientas lønnskalkulator</h1>
+			</div>
+			<div class="row">
+				<label for="maallonn"> Mållønn fra lønnsbrev: </label><input id="maallonn" name="maallonn" type="text" onchange="fieldChanged()">
+			</div>
+			<div class="row">
+				<label for="antallTimer"><label>Antall timer sist måned: </label><input id="antallTimer" name="antallTimer" type="text"onchange="fieldChanged()"> </label>
+			</div>
+
+			<div class="row">
+				<label>Brutto månedslønn:</label> <label id="bruttoMaanedslonn"> </label>
+			</div>
+			<div class="row">
+				<label>Feriepenger:</label> <label id="feriepenger"> </label>
+			</div>
+			<div class="row">
+				<label>Månedslønn minus feriepenger:</label> <label id="nettoMaanedslonn"></label>
+			</div>
+		</div>
+	</body>
 </html>
