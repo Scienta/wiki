@@ -20,7 +20,9 @@ Vi følgende forsikringer:
 - Behandlingsforsikring
 - Uføreforsikring. 
 
-Forsikringene leveres av Gjensidige, og ved å logge inn på deres sider og legge til forsikringsnummeret kan man få opp vilkår. Dokumentene ligger også på [google drive](https://drive.google.com/drive/folders/1J1fgsFzpooXyCxIBvYTzywJm226aLspu)
+Reiseforskingene leveres av Gjensidige. Forsikringsnummer for 2024 er: 93388744. Ved å logge inn på [Gjensidige sine sider](https://www.gjensidige.no/kunde/privat/forsikring/oversikt) og legge til forsikringsnummeret, vil man man få opp Reiseforskringene i din oversik. Når du har lagt til forsikringene skal de komme opp på følgende måte. 
+
+Behandlingsforsikring er beskrevet i dokumenter som på [google drive](https://drive.google.com/drive/folders/1wRXNGPd5z-3GBJQmKo4BpHwgKg-P8KFG)
 
 ___
 
