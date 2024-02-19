@@ -7,8 +7,6 @@
 
 
 	<style>
-
-
 		input{
 			background-color: #fcfcfc;
   			border: 0;
@@ -27,18 +25,14 @@
 		label{
 			padding-right: 30px;
 		}
-
-
 	</style>
 
 	<script>
-
 		function fieldChanged(){
 
 			var maallonn = document.getElementById("maallonn").value
 			var antallTimer = document.getElementById("antallTimer").value
 			
-
 			console.log("maallonn" + maallonn)
 			console.log("antall timer" + antallTimer)
 
@@ -48,13 +42,9 @@
 			document.getElementById("feriepenger").innerHTML = Intl.NumberFormat('no-NO', { style: 'currency', currency: 'NOK' }).format(Math.trunc(bruttoMaanedslonn * 0.102))
 			document.getElementById("nettoMaanedslonn").innerHTML = Intl.NumberFormat('no-NO', { style: 'currency', currency: 'NOK' }).format(Math.trunc(bruttoMaanedslonn - (bruttoMaanedslonn * 0.102)))
 		}
-
 	</script>
 
 	<body>
-
-
-
 		<div class="container">
 			<div class="row">
 				<h1>Scientas lønnskalkulator</h1>
