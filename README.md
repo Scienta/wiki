@@ -20,7 +20,6 @@ Vi følgende forsikringer:
 
 Forsikringene leveres av Gjensidige, og ved å logge inn på deres sider og legge til forsikringsnummeret kan man få opp vilkår. Dokumentene ligger også på [google drive](https://drive.google.com/drive/folders/1J1fgsFzpooXyCxIBvYTzywJm226aLspu)
 
-
 ## Mobiltelefoni og internett 
 Internett og bobiltelefoni kan dekkes av Scienta. Det er to alternative modeller. 
 
