@@ -33,7 +33,7 @@
 			var maallonn = document.getElementById("maallonn").value
 			var antallTimer = document.getElementById("antallTimer").value
 
-			var maanedslonn = (maallonn / 1700) / 1.12 
+			var maanedslonn = ((maallonn / 1700) * antallTimer) / 1.12 
 			
 			document.getElementById("feriepenger").innerHTML = displayFormat(maanedslonn * 0.12)
 			document.getElementById("nettoMaanedslonn").innerHTML = displayFormat(maanedslonn)
