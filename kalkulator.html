@@ -33,11 +33,11 @@
 			var maallonn = document.getElementById("maallonn").value
 			var antallTimer = document.getElementById("antallTimer").value
 
-			var bruttoMaanedslonn = (maallonn / 1700) * antallTimer
-
-			document.getElementById("bruttoMaanedslonn").innerHTML = displayFormat(bruttoMaanedslonn)
-			document.getElementById("feriepenger").innerHTML = displayFormat(bruttoMaanedslonn * 0.12)
-			document.getElementById("nettoMaanedslonn").innerHTML = displayFormat(bruttoMaanedslonn - (bruttoMaanedslonn * 0.102))
+			var maanedslonn = (maallonn / 1700) / 1.12 
+			
+			document.getElementById("feriepenger").innerHTML = displayFormat(maanedslonn * 0.12)
+			document.getElementById("nettoMaanedslonn").innerHTML = displayFormat(maanedslonn)
+			document.getElementById("bruttoMaanedslonn").innerHTML = displayFormat(maanedslonn + maanedslonn * 0.12)
 		}
 	</script>
 
