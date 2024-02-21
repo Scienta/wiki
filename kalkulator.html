@@ -33,11 +33,14 @@
 			var maallonn = document.getElementById("maallonn").value
 			var antallTimer = document.getElementById("antallTimer").value
 
-			var maanedslonn = ((maallonn / 1700) * antallTimer) / 1.12 
-			
-			document.getElementById("feriepenger").innerHTML = displayFormat(maanedslonn * 0.12)
+			var provisjon = ((maallonn / 1700) * antallTimer) 
+			var maanedslonn = provisjon / 1.12
+			var feriepenger = maanedslonn * 0.12 
+
+			document.getElementById("bruttoMaanedslonn").innerHTML = displayFormat(provisjon)
+			document.getElementById("feriepenger").innerHTML = displayFormat(maanedslonn * 0.12) 
 			document.getElementById("nettoMaanedslonn").innerHTML = displayFormat(maanedslonn)
-			document.getElementById("bruttoMaanedslonn").innerHTML = displayFormat(maanedslonn + maanedslonn * 0.12)
+			
 		}
 	</script>
 
